@@ -1,0 +1,50 @@
+body {
+  font-family: 'Dosis', sans-serif;
+}
+
+li {
+  opacity: .9;
+}
+
+.jumbotron {
+  background-color: rgba(238, 238, 238, .6);
+}
+
+#addHeader {
+  text-align: center;
+}
+
+#addBurgerForm {
+  text-align: center;
+}
+
+#addButton {
+  right: 50%;
+}
+
+h1 {
+  text-align: center;
+}
+
+h2 {
+  text-align: center;
+}
+
+.label {
+  font-weight: bold;
+}
+
+.create-update-form {
+  padding: 5px;
+  margin: 5px;
+}
+
+.form-group {
+  margin-bottom: 5px;
+}
+
+.addBox {
+  margin: 20px 0 0 0;
+  padding: 10px;
+  background-color: rgba(238, 238, 238, .6);
+}
