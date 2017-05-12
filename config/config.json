@@ -3,7 +3,7 @@
     "username": "root",
     "password": "203980Kj",
     "database": "burgerSequel_db",
-    "host": "127.0.0.1",
+    "host": "localhost",
     "dialect": "mysql"
   },
   "test": {
